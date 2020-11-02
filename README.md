@@ -1,2 +1,3 @@
 # lex-yacc
-grammar for lex (flex) and yacc (bison)
+Grammars for lex (flex) and yacc (bison).
+Added complex number calculator on lex / yacc.
